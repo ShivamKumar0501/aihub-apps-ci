@@ -1,0 +1,20 @@
+{
+    "appReleaseVersion": "24.50",
+    "author": "shivam.kumar_instabase.com",
+    "createdAtMs": "1739279988000",
+    "description": "this is for testing only",
+    "id": "f0b8d271-312e-47fd-8b05-c098e7a6001c",
+    "isCustomizable": false,
+    "linkSharingMode": "OFF",
+    "metadata": "{\"authors\": [\"shivam.kumar_instabase.com\"], \"icon\": \"icon.png\", \"samples\": \"\", \"results\": \"\", \"schema\": \"schema.json\", \"project_id\": \"0194a79d-bbcd-79de-ad84-56cf154b91df\", \"billing_model\": \"default\", \"has_project_snapshot\": true, \"org_context_type\": \"COMMERCIAL\"}",
+    "name": "CICD Build App",
+    "owner": "shivam.kumar_instabase.com",
+    "solutionType": "EXTRACTION",
+    "solution_path": "system/global/fs/Instabase Drive/Applications/Deployed/All/f0b8d271-312e-47fd-8b05-c098e7a6001c",
+    "state": "PRODUCTION",
+    "summary": "No summary",
+    "updateMode": "UPDATE_WHEN_EXPIRED",
+    "updatedAtMs": "1739279995000",
+    "version": "0.0.1",
+    "visibility": "PRIVATE"
+}
